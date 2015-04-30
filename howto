@@ -1,0 +1,6 @@
+split --bytes=49M $FILENAME
+git push
+password token in ~/.ssh
+
+git pull
+cat x* > $FILENAME
